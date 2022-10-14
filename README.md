@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/alfgow/arrendamiento-seguro/main/Logo%20Circular.png">
+</p>
+
 ### Sitio de Arrendamiento Seguro: PHP - JS - CSS
 
 Realicé el sitio web de: <a href='https://arrendamientoseguro.app/'>Arrendamiento Seguro</a>
