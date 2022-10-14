@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/alfgow/arrendamiento-seguro/main/Logo%20Circular.png">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/alfgow/arrendamiento-seguro/main/LogoFinal-AS_con_fondo_blanco.png-removebg-preview%20(1).png">
 </p>
 
 ### Sitio de Arrendamiento Seguro: PHP - JS - CSS
