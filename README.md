@@ -11,7 +11,7 @@ Realicé el sitio web de: <a href='https://arrendamientoseguro.app/'>Arrendamien
 
 ### Loading Progessive Web App
 
-<img src='https://raw.githubusercontent.com/alfgow/arrendamiento-seguro/main/WhatsApp%20Image%202022-10-14%20at%2017.01.18.jpg' width="400" height="600"/>
+<img src='https://raw.githubusercontent.com/alfgow/arrendamiento-seguro/main/WhatsApp%20Image%202022-10-14%20at%2017.01.18.jpg' width="300" height="600"/>
 
 ### Web App
 
